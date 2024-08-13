@@ -1,0 +1,20 @@
+{
+  "name": "preentrega-backend", 
+  "version": "1.0.0",                  
+  "description": "Primera preentrega del proyecto final de backend 1",
+  "main": "index.js",     
+  "scripts": {
+    "start": "node index.js",         
+    "test": "echo \"Error: no test specified\" && exit 1" 
+  },
+  "keywords": [
+    "nodejs",
+    "express",
+    "backend"
+  ],
+  "author": "Gregorio Agustín Serra",               
+  "license": "ISC",                    
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
